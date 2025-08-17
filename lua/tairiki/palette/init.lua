@@ -163,6 +163,7 @@ function M.get_palette_bg_style(which)
 end
 
 M.palettes.dark = require("tairiki.palette.dark")
+M.palettes.evening = require("tairiki.palette.evening")
 M.palettes.light = require("tairiki.palette.light")
 M.palettes.dimmed = require("tairiki.palette.dimmed")
 M.palettes.light_legacy = require("tairiki.palette.light_legacy")
